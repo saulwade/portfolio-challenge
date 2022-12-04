@@ -75,7 +75,7 @@ li {
     margin-top: 3%;
 }
 
-  header {
+header {
     background: url(tech7.jpg) no-repeat center fixed;     
     background-size: cover;;
     padding-top: 1%;
@@ -90,5 +90,39 @@ li {
     margin-left: 16%;
 }
 
+.mern {
+    position: absolute;
+    margin-left: 175%;
+    margin-top: -68%;
+    cursor: pointer;
+}
+
+.led {
+    position: absolute;
+    margin-left: 175%;
+    margin-top: 465%;
+    cursor: pointer;
+}
+
+.calculator {
+    position: absolute;
+    margin-left: 495%;
+    margin-top: 465%;
+    cursor: pointer;
+}
+
+.pastel {
+    position: absolute;
+    margin-left: 175%;
+    margin-top: 625%;
+    cursor: pointer;
+}
+
+.run {
+    position: absolute;
+    margin-left: 495%;
+    margin-top: 625%;
+    cursor: pointer;
+}
 
 
