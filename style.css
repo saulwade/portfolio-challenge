@@ -37,12 +37,12 @@ li {
 
 .heading {
     margin-top: 10%;
-    margin-right: 3%;
+    margin-right: 1%;
     color: rgb(70, 70, 70);
 }
 
 .subtitle {
-    margin-left: 65%;
+    margin-left: 77%;
     background-color: aqua;
     border: NONE;
     padding: 10px 25px 10px 25px;
@@ -63,23 +63,23 @@ li {
     position: absolute;
     left: 19%;
     margin-left: 8%;
-    top: 39%;
+    top: 47%;
   }
 
 .about-me-text {
     position: absolute;
     margin-left: 30%;
     margin-right: 3%;
-    margin-top: 4.8%;
+    margin-top: 3.5%;
 }
 
 .about-me {
-    margin-left: 11%;
+    margin-left: 16%;
     color: rgb(0, 85, 85);
     font-size: 350%;
     position: absolute;
     text-align: right;
-    margin-top: 4%;
+    margin-top: 3%;
 }
 
   header {
