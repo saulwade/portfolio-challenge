@@ -1,0 +1,50 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-size: 40px;
+    background-color: aqua;
+    color:rgb(70, 70, 70) ;
+    margin-left: 6%;
+}
+
+li {
+    list-style: none;
+    margin-right: 25px;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(70, 70, 70);
+}
+
+.list {
+    display: flex;
+    cursor: pointer;
+    color: aqua;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.heading {
+    text-align: end;
+    margin-top: 12%;
+    margin-right: 5%;
+    color: rgb(70, 70, 70);
+}
+
+h1 {
+    background-color: aqua; 
+}
+
+header {
+    background: url(wood.jpg);
+}
