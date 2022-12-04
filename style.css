@@ -36,8 +36,8 @@ li {
 }
 
 .heading {
-    margin-top: 12%;
-    margin-right: 5%;
+    margin-top: 10%;
+    margin-right: 3%;
     color: rgb(70, 70, 70);
 }
 
@@ -48,7 +48,7 @@ li {
     padding: 10px 25px 10px 25px;
     font-size: 175%;
     color: rgb(0, 85, 85);
-    margin-bottom: 5%;
+    margin-bottom: 2%;
 }
 
 .content {
@@ -63,13 +63,14 @@ li {
     position: absolute;
     left: 19%;
     margin-left: 8%;
-    top: 36%;
+    top: 39%;
   }
 
 .about-me-text {
     position: absolute;
     margin-left: 30%;
     margin-right: 3%;
+    margin-top: 4.8%;
 }
 
 .about-me {
@@ -78,11 +79,11 @@ li {
     font-size: 350%;
     position: absolute;
     text-align: right;
-    margin-top: -1%;
+    margin-top: 4%;
 }
 
   header {
     background: url(wood2.jpg);
     padding-top: 1%;
-    object-fit: cover;    
+    margin-top: 0;
 }
