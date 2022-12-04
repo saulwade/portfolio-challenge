@@ -7,11 +7,12 @@ body {
     padding: 0;
 }
 
-p {
+.name {
     font-size: 40px;
-    background-color: aqua;
     color:rgb(70, 70, 70) ;
-    margin-left: 6%;
+    background-color: aqua;
+    padding-left:10% ;
+    padding-right: 2%;
 }
 
 li {
@@ -35,16 +36,50 @@ li {
 }
 
 .heading {
-    text-align: end;
     margin-top: 12%;
     margin-right: 5%;
     color: rgb(70, 70, 70);
 }
 
-h1 {
-    background-color: aqua; 
+.subtitle {
+    display: flex;
+    margin-left: 65%;
+    margin-bottom: 5%;
+    background-color: aqua;
 }
 
 header {
-    background: url(wood.jpg);
+    background: url(wood2.jpg);
 }
+
+.content {
+    background-color: white;
+    display: flex;
+    position: absolute;
+}
+
+.vl {
+    border-left: 6px solid rgb(0, 85, 85);
+    height: 120px;
+    position: absolute;
+    left: 19%;
+    margin-left: 8%;
+    top: 36%;
+  }
+
+.about-me-text {
+    position: absolute;
+    margin-left: 30%;
+    margin-right: 3%;
+}
+
+.about-me {
+    margin-left: 10%;
+    color: rgb(0, 85, 85);
+    font-size: 350%;
+    position: absolute;
+    text-align: right;
+    margin-top: -1%;
+}
+
+
