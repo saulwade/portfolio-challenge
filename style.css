@@ -9,8 +9,8 @@ body {
 
 .name {
     font-size: 40px;
-    color:rgb(70, 70, 70) ;
-    background-color: aqua;
+    color:rgb(0, 0, 0) ;
+    background-color: white;
     padding-left:10% ;
     padding-right: 2%;
 }
@@ -24,13 +24,13 @@ li {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(70, 70, 70);
+    background-color: black;
 }
 
 .list {
     display: flex;
     cursor: pointer;
-    color: aqua;
+    color: White;
     text-decoration: underline;
     font-size: 20px;
 }
@@ -43,12 +43,12 @@ li {
 
 .subtitle {
     margin-left: 77%;
-    background-color: aqua;
+    background-color: white;
     border: NONE;
     padding: 10px 25px 10px 25px;
     font-size: 175%;
-    color: rgb(0, 85, 85);
-    margin-bottom: 2%;
+    color: rgb(0, 0, 0);
+    margin-bottom: 1.5%;
 }
 
 .content {
@@ -70,7 +70,7 @@ li {
     position: absolute;
     margin-left: 30%;
     margin-right: 3%;
-    margin-top: 3.5%;
+    margin-top: 2.5%;
 }
 
 .about-me {
@@ -79,11 +79,12 @@ li {
     font-size: 350%;
     position: absolute;
     text-align: right;
-    margin-top: 3%;
+    margin-top: 1.5%;
 }
 
   header {
-    background: url(wood2.jpg);
+    background: url(tech7.jpg) no-repeat center fixed;     
+    background-size: cover;;
     padding-top: 1%;
     margin-top: 0;
 }
