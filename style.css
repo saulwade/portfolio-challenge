@@ -57,20 +57,13 @@ li {
     position: absolute;
 }
 
-.vl {
-    border-left: 6px solid rgb(0, 85, 85);
-    height: 200px;
-    position: absolute;
-    left: 19%;
-    margin-left: 8%;
-    top: 47%;
-  }
 
 .about-me-text {
     position: absolute;
     margin-left: 30%;
     margin-right: 3%;
-    margin-top: 2.5%;
+    margin-top: 3.5%;
+    font-size: 25px;
 }
 
 .about-me {
@@ -79,7 +72,7 @@ li {
     font-size: 350%;
     position: absolute;
     text-align: right;
-    margin-top: 1.5%;
+    margin-top: 3%;
 }
 
   header {
@@ -88,3 +81,14 @@ li {
     padding-top: 1%;
     margin-top: 0;
 }
+
+.work {
+    position: absolute;
+    color: rgb(0, 85, 85);
+    font-size: 200%;
+    margin-top: 20%;
+    margin-left: 16%;
+}
+
+
+
