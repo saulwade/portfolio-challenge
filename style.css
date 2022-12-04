@@ -42,14 +42,13 @@ li {
 }
 
 .subtitle {
-    display: flex;
     margin-left: 65%;
-    margin-bottom: 5%;
     background-color: aqua;
-}
-
-header {
-    background: url(wood2.jpg);
+    border: NONE;
+    padding: 10px 25px 10px 25px;
+    font-size: 175%;
+    color: rgb(0, 85, 85);
+    margin-bottom: 5%;
 }
 
 .content {
@@ -60,7 +59,7 @@ header {
 
 .vl {
     border-left: 6px solid rgb(0, 85, 85);
-    height: 120px;
+    height: 200px;
     position: absolute;
     left: 19%;
     margin-left: 8%;
@@ -74,7 +73,7 @@ header {
 }
 
 .about-me {
-    margin-left: 10%;
+    margin-left: 11%;
     color: rgb(0, 85, 85);
     font-size: 350%;
     position: absolute;
@@ -82,4 +81,8 @@ header {
     margin-top: -1%;
 }
 
-
+  header {
+    background: url(wood2.jpg);
+    padding-top: 1%;
+    object-fit: cover;    
+}
